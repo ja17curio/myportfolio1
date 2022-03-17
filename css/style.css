@@ -1,0 +1,24 @@
+			a { 
+				text-decoration: none;
+			 }
+
+			 p {
+			 	color: dimgray;
+			 }
+
+			 ul li {
+			 	font-size: 20px;
+			 }
+
+			 h1 {
+			 	font-size: 100px;
+			 	color:  darkblue;
+			 }
+
+			 header, footer {
+			 	background-color: #859CC4;
+			 }
+
+			 .test {
+			 	color: green;
+			 }
